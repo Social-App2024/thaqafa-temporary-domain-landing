@@ -88,7 +88,7 @@ function App() {
   shadow-[0_0_35px_rgba(255,255,255,0.15)]
   transition-all duration-300 bg-[#E3E8E8] text-[#449699] hover:bg-transparent hover:text-white font-manrope font-medium tracking-[2px] text-[5vw] lg:text-[2vw] hover:scale-[102%]"
             target="_blank"
-            href=""
+            href="https://forms.gle/DZvUAM9FEWubSvcL7"
           >
             join the waitlist
           </a>
